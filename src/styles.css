@@ -1,1 +1,51 @@
 /* You can add global styles to this file, and also import other style files */
+.bg-firstColor {
+    background-color: #485936;
+}
+
+.bg-secondColor {
+    background-color: #93a368;
+}
+
+.bg-thirdColor {
+    background-color: #cadbb7;
+}
+
+.bg-fourthColor {
+    background-color: #9dcdbf;
+}
+
+.bg-fifthColor {
+    background-color: #FCFBFC;
+}
+
+.fluo {
+    color: #58ff01;
+}
+
+.icone {
+    width: 50px;
+    height: auto;
+}
+
+
+
+.customerImg {
+    width: 10vw;
+    height: auto;
+}
+
+
+main {
+    min-height: 64vh;
+}
+
+.carousel-inner {
+    height: 500px;
+    width: auto;
+}
+
+
+.carousel-item img {
+    height: 100%;
+}

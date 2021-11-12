@@ -1,0 +1,13 @@
+
+.header {
+    height: 10vh;
+}
+
+/* @font-face {
+    font-family: 'Halloween_Morning';
+    src: url('img\Halloween_Morning.ttf');
+} */
+
+.titleFont {
+    font-family: 'Halloween_Morning'
+}

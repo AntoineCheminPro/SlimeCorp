@@ -1,0 +1,17 @@
+.footer {
+    height: 18vh;
+}
+
+.footerText {
+    font-size: 1em;
+    Line-height: 1px;
+}
+
+
+
+#map {
+    /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
+    height: 160px;
+    WIDTH: 280px;
+    padding: 5px;
+}
