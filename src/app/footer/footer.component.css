@@ -1,5 +1,5 @@
 .footer {
-    height: 18vh;
+    height: 25vh;
 }
 
 .footerText {
@@ -12,6 +12,6 @@
 #map {
     /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
     height: 160px;
-    WIDTH: 280px;
+    width: 280px;
     padding: 5px;
 }

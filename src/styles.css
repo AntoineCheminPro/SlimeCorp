@@ -1,3 +1,5 @@
+@import "~leaflet/dist/leaflet.css";
+
 /* You can add global styles to this file, and also import other style files */
 .bg-firstColor {
     background-color: #485936;
@@ -37,15 +39,5 @@
 
 
 main {
-    min-height: 64vh;
-}
-
-.carousel-inner {
-    height: 500px;
-    width: auto;
-}
-
-
-.carousel-item img {
-    height: 100%;
+    min-height: 74vh;
 }

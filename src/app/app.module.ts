@@ -8,6 +8,7 @@ import { HeadComponent } from './head/head.component';
 import { HeaderComponent } from './header/header.component';
 import { NavComponent } from './nav/nav.component';
 import { FooterComponent } from './footer/footer.component';
+import { MapComponent } from './footer/map/map.component';
 import { ServicesComponent } from './services/services.component';
 import { ProjetsComponent } from './projets/projets.component';
 import { ClientsComponent } from './clients/clients.component';
@@ -21,6 +22,7 @@ import { FourOhFourComponent } from './four-oh-four/four-oh-four.component';
     HeaderComponent,
     NavComponent,
     FooterComponent,
+    MapComponent,
     ServicesComponent,
     ProjetsComponent,
     ClientsComponent,
